@@ -1,0 +1,12 @@
+C:\РПМ\Курсовой проект\Course\bin\Debug\Course.exe.config
+C:\РПМ\Курсовой проект\Course\bin\Debug\Course.exe
+C:\РПМ\Курсовой проект\Course\bin\Debug\Course.pdb
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.Form1.resources
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.Properties.Resources.resources
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.csproj.GenerateResource.cache
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.exe
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.pdb
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.Form2.resources
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.Form3.resources
+C:\РПМ\Курсовой проект\Course\obj\Debug\Course.csprojAssemblyReference.cache

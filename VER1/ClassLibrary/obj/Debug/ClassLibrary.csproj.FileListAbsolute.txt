@@ -1,0 +1,8 @@
+C:\РПМ\Курсовой проект\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\РПМ\Курсовой проект\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\РПМ\Курсовой проект\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\РПМ\Курсовой проект\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\РПМ\Курсовой проект\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\РПМ\Курсовой проект\ClassLibrary\obj\Debug\ClassLibrary.Properties.Resources.resources
+C:\РПМ\Курсовой проект\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.cache
+C:\РПМ\Курсовой проект\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
